@@ -1,4 +1,7 @@
-    // classe Math para alguns recursos que acabei precisando
+// Algumas funções que acabei precisando...
+// não coloquei em '../classes/BasicOperations.js' porque achei que
+// poderia ficar muito bagunçado.
+
 export class Math {
     
 // método range, porque senti falta de algumas coisas no javascript

@@ -1,5 +1,5 @@
     // importando algums recursos
-import {Math} from '../recursos/ls.js';
+import {Math} from './outros/ls.js';
 const tools = new Math;
 
     // classe de operações básicas
