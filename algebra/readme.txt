@@ -1,3 +1,0 @@
-This is just my part of a group project, so a lot is missing...
-
-Theres no main.js here, so just use './testes/operations.js' to test.
